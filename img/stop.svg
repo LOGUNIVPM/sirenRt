@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="23.439384mm"
+   height="23.439384mm"
+   viewBox="0 0 23.439384 23.439384"
+   version="1.1"
+   id="svg34755"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="stop.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview34757"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="4.7678451"
+     inkscape:cx="48.44956"
+     inkscape:cy="11.640479"
+     inkscape:window-width="1920"
+     inkscape:window-height="1055"
+     inkscape:window-x="1600"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs34752">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter34736"
+       x="-0.13604026"
+       y="-0.13604026"
+       width="1.2720805"
+       height="1.2720805">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.8990771"
+         id="feGaussianBlur34738" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-52.208558,-113.02919)">
+    <path
+       sodipodi:type="star"
+       style="opacity:0.312507;fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:3.03728;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter34736)"
+       id="path34680"
+       inkscape:flatsided="true"
+       sodipodi:sides="4"
+       sodipodi:cx="235"
+       sodipodi:cy="405"
+       sodipodi:r1="53.15073"
+       sodipodi:r2="37.583241"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.5707963"
+       inkscape:rounded="0.06"
+       inkscape:randomized="0"
+       transform="matrix(0.23046919,0,0,0.23046919,9.7679912,31.408857)"
+       inkscape:transform-center-y="-2.5344347e-06"
+       d="m 272.58324,442.58324 c -3.18904,3.18905 -71.97744,3.18905 -75.16648,0 -3.18905,-3.18904 -3.18905,-71.97744 0,-75.16648 3.18904,-3.18905 71.97744,-3.18905 75.16648,0 3.18905,3.18904 3.18905,71.97744 0,75.16648 z"
+       inkscape:export-filename="/home/leopard/Documents/UNIVPM/RICERCA/Siren/sirenRt/img/stop.png"
+       inkscape:export-xdpi="197.82001"
+       inkscape:export-ydpi="197.82001" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#c00000;fill-opacity:1;stroke:#ffffff;stroke-width:3.03728;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path34338"
+       inkscape:flatsided="true"
+       sodipodi:sides="4"
+       sodipodi:cx="235"
+       sodipodi:cy="405"
+       sodipodi:r1="53.15073"
+       sodipodi:r2="37.583241"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.5707963"
+       inkscape:rounded="0.06"
+       inkscape:randomized="0"
+       transform="matrix(0.23046919,0,0,0.23046919,8.4450742,30.085941)"
+       inkscape:transform-center-y="-2.5344347e-06"
+       d="m 272.58324,442.58324 c -3.18904,3.18905 -71.97744,3.18905 -75.16648,0 -3.18905,-3.18904 -3.18905,-71.97744 0,-75.16648 3.18904,-3.18905 71.97744,-3.18905 75.16648,0 3.18905,3.18904 3.18905,71.97744 0,75.16648 z" />
+  </g>
+</svg>

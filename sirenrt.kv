@@ -1,0 +1,39 @@
+#:kivy 1.0
+#:import kivy kivy
+#:import win kivy.core.window
+#:import hex kivy.utils.get_color_from_hex
+
+
+FloatLayout:
+    canvas:
+        Color:
+            rgb: hex('#231f20')
+        Rectangle:
+            #source: 'img/new-dashboard-bg.png'
+            size: self.size
+
+        # AUDIO TEST BOX
+        # a thin rectangle made by imposing two rectangles with slightly different area
+        Color:
+            rgba: (0.5, 0.5, 0.6, 1)
+        Rectangle:
+            pos: 20, 220
+            size: 500, 300
+        Color:
+            rgb: hex('#231f20')
+        Rectangle:
+            pos: 21, 221
+            size: 498, 298
+
+        # DEMO BOX
+        # a thin rectangle made by imposing two rectangles with slightly different area
+        Color:
+            rgba: (0.5, 0.5, 0.6, 1)
+        Rectangle:
+            pos: 570, 100
+            size: 500, 420
+        Color:
+            rgb: hex('#231f20')
+        Rectangle:
+            pos: 571, 101
+            size: 498, 418
